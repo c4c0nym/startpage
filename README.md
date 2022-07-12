@@ -1,5 +1,5 @@
 # startpage
-My startpage, edited from github.com/kencx
+My startpage, edited from github.com/nwvh/ who got the original from github.com/kencx
 
 # How to use?
 
